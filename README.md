@@ -43,12 +43,7 @@
 ---
 
 [![Clupai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clupai8o0&show_icons=true&theme=radical)](https://github.com/Clupai8o0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clupai8o0&layout=compact)](https://github.com/Clupai8o0/github-readme-stats)
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Clupai's GitHub Stats" src="https://github-readme-stats.Clupai8o0.vercel.app/api?username=Clupai8o0&show_icons=true&hide_border=true" />
-
-</details> -->
 
 [discord]: https://discord.gg/wNJBdveqMY
