@@ -42,7 +42,7 @@
 
 ---
 
-[![Clupai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clupai8o0)](https://github.com/Clupai8o0/github-readme-stats)
+[![Clupai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clupai8o0&show_icons=true&theme=radical)](https://github.com/Clupai8o0/github-readme-stats)
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
