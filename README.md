@@ -42,8 +42,8 @@
 
 ---
 
-[![Clupai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clupai8o0&show_icons=true&theme=radical)](https://github.com/Clupai8o0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clupai8o0&layout=compact)](https://github.com/Clupai8o0/github-readme-stats)
+[![Clupai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clupai8o0&show_icons=true&theme=onedark)](https://github.com/Clupai8o0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clupai8o0&layout=compact&show_icons=true&theme=dark)](https://github.com/Clupai8o0/github-readme-stats)
 
 
 [discord]: https://discord.gg/wNJBdveqMY
