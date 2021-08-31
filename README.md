@@ -40,11 +40,15 @@
 <br />
 <br />
 
-<details>
+---
+
+[![Clupai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clupai8o0)](https://github.com/Clupai8o0/github-readme-stats)
+
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Clupai's GitHub Stats" src="https://github-readme-stats.Clupai8o0.vercel.app/api?username=Clupai8o0&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [discord]: https://discord.gg/wNJBdveqMY
